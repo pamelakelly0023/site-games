@@ -1,0 +1,27 @@
+#logo{
+	height: 150px;
+}
+
+li{
+	font-size:20pt;
+}
+
+footer{
+	padding: 20px 0;
+}
+
+#ex{
+		background-color: blue;
+		height:100px;
+		width: 50px;
+		margin-right: 8px;
+		
+	}
+	#ex1{
+		background-color: red;
+		height:100px;
+		width: 50px;
+		margin-right: 8px;
+		
+	}
+
